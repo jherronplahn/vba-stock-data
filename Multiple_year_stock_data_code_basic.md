@@ -1,6 +1,6 @@
-      Sub AlphaTest()
+      Sub stocks()
 
-'Loop through the worksheets
+       'Loop through the worksheets
 
         Dim WS As Worksheet
         For Each WS In ActiveWorkbook.Worksheets
