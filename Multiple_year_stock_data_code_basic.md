@@ -47,7 +47,7 @@
                 
                 'if cells are the same ticker name
                 Else
-                totalVolume = volume + Cells(i, column + 6).Value
+                totalVolume = totalVolume + Cells(i, column + 6).Value
                 
                 End If
                 
